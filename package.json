@@ -1,0 +1,22 @@
+{
+  "name": "gabri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@prisma/client": "^7.4.0",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^25.2.3",
+    "prisma": "6.19"
+  }
+}
